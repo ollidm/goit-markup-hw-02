@@ -1,0 +1,20 @@
+body {
+  font-family: "Roboto";
+  color: var(--Dark);
+  background-color: var(--Whitebackground);
+}
+/* Header */
+:root {
+  --PrimaryBrand: #4d5ae5;
+  --Pressedstate: #404bbf;
+  --Dark: #2e2f42;
+  --Success: #31d0aa;
+  --Text: #434455;
+  --SubtleText: #8e8f99;
+  --Accent: #e7e9fc;
+  --Light: #f4f4fd;
+  --Modaloverlay: #2e2f42;
+  --Herobackground: #2e2f42;
+  --Whitebackground: #ffffff;
+  --Modalbackground: #fcfcfc;
+}
