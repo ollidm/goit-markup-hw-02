@@ -3,7 +3,7 @@ body {
   color: var(--Dark);
   background-color: var(--Whitebackground);
 }
-/* Header */
+
 :root {
   --PrimaryBrand: #4d5ae5;
   --Pressedstate: #404bbf;
@@ -17,4 +17,49 @@ body {
   --Herobackground: #2e2f42;
   --Whitebackground: #ffffff;
   --Modalbackground: #fcfcfc;
+}
+/* Header */
+
+/* LOGO */
+.logo_link {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--PrimaryBrand);
+}
+
+.logo_link_change {
+  color: var(--Dark);
+}
+
+.nav .nav_list_link:hover,
+.nav .nav_list_link:active,
+.nav .nav_list_link:focus {
+  color: var(--Pressedstate);
+}
+.nav .nav_list_link {
+  font-style: normal;
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--Pressedstate);
+}
+
+.address .address_list:hover,
+.address .address_list:active,
+.address .address_list:focus {
+  color: var(--Pressedstate);
+}
+
+.address .address_list {
+  font-style: normal;
+  text-decoration: none;
+  color: var(--Text);
+}
+/* Button */
+.button {
+  color: #2e2f42;
 }
