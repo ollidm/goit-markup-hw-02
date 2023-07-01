@@ -60,6 +60,21 @@ body {
   color: var(--Text);
 }
 /* Button */
+.button_item {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--PrimaryBrand);
+  background-color: var(--Light);
+  cursor: pointer;
+}
+
+.button_item:hover,
+.button_item:focus {
+  color: var(--Whitebackground);
+  background-color: var(--Pressedstate);
+}
 .button {
-  color: #2e2f42;
+  color: var(--Modaloverlay);
 }
