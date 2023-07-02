@@ -121,6 +121,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
 }
+/* Секція 1 */
 .info_list {
   font-family: "Roboto", sans-serif;
   background-color: var(--Whitebackground);
@@ -147,6 +148,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+  /* Секція 2 */
 .doing {
   background-color: #ffffff;
   text-transform: capitalize;
@@ -164,7 +166,7 @@ body {
 .doing_list_item {
   text-align: center;
 }
-
+ /* Секція 3 */
 .team {
   background-color: #f4f4fd;
 }
