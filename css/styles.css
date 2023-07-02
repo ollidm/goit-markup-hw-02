@@ -27,10 +27,10 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
-    color: #4d5ae5;
+
 }
-.logo link {  text-decoration: none;
- 
+.logo {  text-decoration: none;
+     color: #4d5ae5;
 
 }
 .logo_link_change {
