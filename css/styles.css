@@ -148,7 +148,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-  /* Секція 2 */
+/* Секція 2 */
 .doing {
   background-color: #ffffff;
   text-transform: capitalize;
@@ -166,29 +166,34 @@ body {
 .doing_list_item {
   text-align: center;
 }
- /* Секція 3 */
+/* Секція 3 */
 .team {
   background-color: #f4f4fd;
 }
-.team_title {font-size: 36px;
+.team_title {
+  font-size: 36px;
   font-size: 36px;
   text-transform: capitalize;
-   letter-spacing: 0.02em;
-   text-align: center;
-    line-height: 1.11;
-   color: #2e2f42 ;
-}
-
-.team_list {background-color: #FFFFFF 
-}
-
-.team_list_title .h3 {font-weight: 500 ;
-  font-size: 20px ;line-height: 1.2;
-  letter-spacing: 0.02em ;
+  letter-spacing: 0.02em;
+  text-align: center;
+  line-height: 1.11;
   color: #2e2f42;
 }
-.team_list_title .p {font-size: 16px ;
-  line-height: 1.5 ;
+
+.team_list {
+  background-color: #ffffff;
+}
+
+.team_list_title .h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.team_list_title .p {
+  font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -196,14 +201,15 @@ body {
 /* Портфоліо */
 .main_menu {
 }
-.content_item {
+.menu_list{}
+.menu_list_item {
 }
-.content_item_img {
+.menu_list_item_img {
 }
-.content_item_tittle {
+.menu_list_item_tittle {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
 }
-.content_item_text {
+.menu_list_item_text {
 }
