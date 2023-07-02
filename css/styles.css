@@ -22,7 +22,7 @@ body {
 
 /* Початок та кінець */
 .nav {
-  font-family: "Raleway", sans-serif;
+
   color: #2e2f42;
 }
 .logo {
@@ -63,7 +63,7 @@ body {
 
 /* Кнопки */
 .button_item {
-  font-family: "Roboto", sans-serif;
+cursor: pointer
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -73,9 +73,28 @@ body {
 }
 .button_item:hover,
 .button_item:focus {
-  color: var(--Whitebackground);
-  background-color: var(--Pressedstate);
+  color: #ffffff;
+  background-color: #404bbf;
 }
 .button {
   color: var(--Modaloverlay);
+}
+
+/* Головна */
+
+/* Портфоліо */
+.main_menu {
+
+}
+.content_item {
+}
+.content_item_img {
+}
+.content_item_tittle {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  0.04em;
+}
+.content_item_text {
 }
