@@ -22,10 +22,18 @@ body {
 
 /* Початок та кінець */
 .nav {
-  
   color: #2e2f42;
 }
-.loggo{  color: #2e2f42;}
+.loggo {
+    font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #2e2f42;
+}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
