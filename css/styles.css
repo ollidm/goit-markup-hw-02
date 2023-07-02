@@ -96,18 +96,21 @@ body {
 }
 .button {
   color: var(--Modaloverlay);
+    background-color: #4D5AE5 
 }
 
 /* Головна */
 .hero {
   background-color: #2e2f42;
+  color: #ffffff;
 }
 .hero_title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #ffffff;
+
+
 }
 .list {
   font-family: "Roboto", sans-serif;
