@@ -25,6 +25,7 @@ body {
   
   color: #2e2f42;
 }
+.loggo{  color: #2e2f42;}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -60,6 +61,18 @@ body {
 }
 .logo_link_text {
   font-weight: 400;
+}
+
+.address .address_list:hover,
+.address .address_list:active,
+.address .address_list:focus {
+  color: var(--Pressedstate);
+}
+
+.address .address_list {
+  font-style: normal;
+  text-decoration: none;
+  color: var(--Text);
 }
 
 /* Кнопки */
