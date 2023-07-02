@@ -158,10 +158,11 @@ body {
 }
 .doing_list {
   background-color: #ffffff;
+  text-transform: capitalize;
 }
 .doing_list_item {
   text-align: center;
-  text-transform: capitalize;
+  letter-spacing: 0.02em;
 }
 
 /* Портфоліо */
