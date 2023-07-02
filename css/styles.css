@@ -121,7 +121,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
 }
-.liste {
+.info_list {
   font-family: "Roboto", sans-serif;
   background-color: var(--Whitebackground);
 }
