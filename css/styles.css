@@ -99,23 +99,24 @@ body {
   color: var(--Modaloverlay);
 }
 .buttons {
-  background-color: #4d5ae5;
   color: #ffffff;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  background-color: #404bbf;
 }
-.buttonse {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: #4d5ae5;
-  background-color: #f4f4fd;
+.buttonse{
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #4d5ae5;
+background-color: #F4F4FD;
 }
 
 /* Головна */
@@ -166,14 +167,13 @@ body {
   text-align: center;
   line-height: 1.11;
   color: var(--Dark);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em
 }
 .doing_list {
   background-color: #ffffff;
 }
 .doing_list_item {
   text-align: center;
-  letter-spacing: 0.02em;
 }
 /* Секція 3 */
 .team {
@@ -187,7 +187,7 @@ body {
   text-align: center;
   line-height: 1.11;
   color: #2e2f42;
-  background-color: #ffffff;
+ background-color: #ffffff;
 }
 
 .team_list {
