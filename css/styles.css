@@ -4,20 +4,7 @@ body {
   background-color: #FFFFFF;
 }
 
-:root {
-  --PrimaryBrand: #4d5ae5;
-  --Pressedstate: #404bbf;
-  --Dark: #2e2f42;
-  --Success: #31d0aa;
-  --Text: #434455;
-  --SubtleText: #8e8f99;
-  --Accent: #e7e9fc;
-  --Light: #f4f4fd;
-  --Modaloverlay: #2e2f42;
-  --Herobackground: #2e2f42;
-  --Whitebackground: #ffffff;
-  --Modalbackground: #fcfcfc;
-}
+
 /* Header */
 
 /* LOGO */
@@ -29,35 +16,35 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-  color: var(--PrimaryBrand);
+  color: #4d5ae5;
 }
 
 .logo_link_change {
-  color: var(--Dark);
+  color: #2e2f42;
 }
 
 .nav .nav_list_link:hover,
 .nav .nav_list_link:active,
 .nav .nav_list_link:focus {
-  color: var(--Pressedstate);
+  color: #404bbf;
 }
 .nav .nav_list_link {
   font-style: normal;
   text-decoration: none;
   font-weight: 500;
-  color: var(--Pressedstate);
+  color: #404bbf;
 }
 
 .address .address_list:hover,
 .address .address_list:active,
 .address .address_list:focus {
-  color: var(--Pressedstate);
+  color: #404bbf;
 }
 
 .address .address_list {
   font-style: normal;
   text-decoration: none;
-  color: var(--Text);
+  color: #434455;
 }
 /* Button */
 .list{
@@ -68,16 +55,16 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  color: var(--PrimaryBrand);
-  background-color: var(--Light);
+  color: #4d5ae5;
+  background-color: #f4f4fd;
   cursor: pointer;
 }
 
 .button_item:hover,
 .button_item:focus {
-  color: var(--Whitebackground);
-  background-color: var(--Pressedstate);
+  color: #ffffff;
+  background-color:#404bbf;
 }
 .button {
-  color: var(--Modaloverlay);
+  color: #2e2f42;
 }
