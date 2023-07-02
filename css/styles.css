@@ -147,6 +147,19 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.doing {
+  background-color: #ffffff;
+}
+.doing_title {
+  font-size: 36px;
+  text-align: center;
+  line-height: 1.11;
+  color: var(--Dark);
+}
+.doing_title_list {
+  text-align: center;
+  text-transform: capitalize;
+}
 /* Портфоліо */
 .main_menu {
 }
