@@ -93,6 +93,7 @@ body {
 .button_item:focus {
   color: #ffffff;
   background-color: #404bbf;
+
 }
 .button {
   color: var(--Modaloverlay);
@@ -119,7 +120,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
 }
-.list {
+.liste {
   font-family: "Roboto", sans-serif;
 }
 .info_item {
