@@ -37,7 +37,7 @@ body {
 }
 
 .logo_link_change {
-  color: var(--Dark);
+  color: #f4f4fd;
 }
 
 .nav .nav_list_link:hover,
