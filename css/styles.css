@@ -18,8 +18,7 @@ body {
   --Modalbackground: #fcfcfc;
 }
 /* Header */
-.logo link {
-  font-family: "Raleway", sans-serif;
+.logos   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -27,7 +26,8 @@ body {
   text-transform: uppercase;
   text-decoration: none;
   color: #4d5ae5;
-}
+
+
 .logo_link_change{
   color: #f4f4fd;
 }
