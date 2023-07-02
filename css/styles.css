@@ -39,8 +39,8 @@ body {
   width: 1440px;
   line-height: 1.5;
   background: #2e2f42;
-
-  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
 .logo_change_link {
   font-size: 18px;
