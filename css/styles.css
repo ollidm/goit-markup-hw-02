@@ -28,6 +28,9 @@ body {
   text-decoration: none;
   color: #4d5ae5;
 }
+.logo_link_change{
+  color: #f4f4fd;
+}
 
 .nav .nav_list link:hover,
 .nav .nav_list link:active,
@@ -91,7 +94,7 @@ body {
 /* Секція 1 */
 .info{background-color: #ffffff;}
 .list{
-  
+
 }
 .info_item{}
 .info_item_title{}
