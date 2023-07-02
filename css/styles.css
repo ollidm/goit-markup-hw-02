@@ -21,11 +21,11 @@ body {
 /* Header */
 
 /* LOGO */
-.logo{color: #f4f4fd;
+.logos{color: #f4f4fd;
   background-color: #2e2f42 
 
 }
-.logo_link {
+.logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -36,7 +36,7 @@ body {
   color: #4d5ae5 ;
 }
 
-.logo_link_change {
+.logo_change {
   color: #f4f4fd;
 }
 
