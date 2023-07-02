@@ -89,8 +89,10 @@ body {
 }
 
 /* Секція 1 */
-.info{}
-.list{}
+.info{background-color: #ffffff;}
+.list{
+  
+}
 .info_item{}
 .info_item_title{}
 .info_item_text{}
