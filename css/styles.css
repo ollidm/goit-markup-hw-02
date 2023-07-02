@@ -127,6 +127,7 @@ body {
 }
 .info_item {
   line-height: 1.2;
+  list-style: none;
 }
 .info_item_title {
   color: var(--Herobackground);
