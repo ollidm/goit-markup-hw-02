@@ -19,6 +19,7 @@ body {
   --Whitebackground: #ffffff;
   --Modalbackground: #fcfcfc;
 }
+
 /* Початок та кінець */
 .nav {
   font-family: "Raleway", sans-serif;
@@ -41,7 +42,6 @@ body {
 
   line-height: 1.5;
 }
-
 .logo_change_link {
   font-size: 18px;
   font-weight: 800;
@@ -59,4 +59,23 @@ body {
 }
 .logo_link_text {
   font-weight: 400;
+}
+
+/* Кнопки */
+.button_item {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--PrimaryBrand);
+  background-color: var(--Light);
+  cursor: pointer;
+}
+.button_item:hover,
+.button_item:focus {
+  color: var(--Whitebackground);
+  background-color: var(--Pressedstate);
+}
+.button {
+  color: var(--Modaloverlay);
 }
