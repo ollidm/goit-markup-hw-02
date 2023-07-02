@@ -19,7 +19,10 @@ body {
   --Whitebackground: #ffffff;
   --Modalbackground: #fcfcfc;
 }
-
+.header {
+  cursor: pointer;
+  background-color: #404bbf;
+}
 /* Початок та кінець */
 .nav {
   color: #2e2f42;
@@ -96,7 +99,15 @@ body {
 }
 .button {
   color: var(--Modaloverlay);
-    background-color: #4D5AE5 
+}
+.buttons {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 /* Головна */
@@ -109,8 +120,6 @@ body {
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-
-
 }
 .list {
   font-family: "Roboto", sans-serif;
