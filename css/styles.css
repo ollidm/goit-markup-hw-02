@@ -1,9 +1,9 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
-
+/* Color */
 :root {
 
   --Pressedstate: #404bbf;
@@ -19,25 +19,8 @@ body {
   --Modalbackground: #fcfcfc;
 }
 /* Header */
-
-/* LOGO */
-.logos{color: #f4f4fd;
-  background-color: #2e2f42 
-
-}
-.logo {
-  font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #4d5ae5 ;
-}
-
-.logo_link {
-  color: #f4f4fd;
+.head{
+background-color: #ffffff;
 }
 
 .nav .nav_list_link:hover,
@@ -63,23 +46,4 @@ body {
   text-decoration: none;
   color: var(--Text);
 }
-/* Button */
 
-.button_item {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  color: var(--PrimaryBrand);
-  background-color: var(--Light);
-  cursor: pointer;
-}
-
-.button_item:hover,
-.button_item:focus {
-  color: var(--Whitebackground);
-  background-color: var(--Pressedstate);
-}
-.button {
-  color: var(--Modaloverlay);
-}
