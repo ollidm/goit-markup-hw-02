@@ -64,13 +64,13 @@ body {
   font-weight: 400;
 }
 
-.address .address_list:hover,
-.address .address_list:active,
-.address .address_list:focus {
+.address_list .address_liste:hover,
+.address_list .address_liste:active,
+.address_list .address_liste:focus {
   color: var(--Pressedstate);
 }
 
-.address .address_list {
+.address_list .address_liste {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -225,6 +225,7 @@ background-color: #F4F4FD;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--Dark);
+  
 }
 .menu_list_item_text {
 }
