@@ -21,6 +21,10 @@ body {
 /* Header */
 
 /* LOGO */
+.Logo{color: #f4f4fd;
+  background-color: #2e2f42 
+
+}
 .logo_link {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
