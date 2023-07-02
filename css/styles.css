@@ -167,13 +167,15 @@ background-color: #F4F4FD;
   text-align: center;
   line-height: 1.11;
   color: var(--Dark);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em
 }
 .doing_list {
   background-color: #ffffff;
 }
 .doing_list_item {
   text-align: center;
+  letter-spacing: 0.02em
+
 }
 /* Секція 3 */
 .team {
