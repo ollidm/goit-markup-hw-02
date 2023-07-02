@@ -88,6 +88,7 @@ body {
   color: var(--PrimaryBrand);
   background-color: var(--Light);
   cursor: pointer;
+  background-color: #404bbf;
 }
 .button_item:hover,
 .button_item:focus {
@@ -106,6 +107,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  background-color: #404bbf;
 }
 
 /* Головна */
