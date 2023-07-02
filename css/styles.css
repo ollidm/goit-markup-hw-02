@@ -201,7 +201,9 @@ body {
 /* Портфоліо */
 .main_menu {
 }
-.menu_list{}
+.menu_list {
+  color: var(--Whitebackground);
+}
 .menu_list_item {
 }
 .menu_list_item_img {
@@ -210,6 +212,8 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--Dark);
 }
 .menu_list_item_text {
 }
