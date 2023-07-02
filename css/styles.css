@@ -99,7 +99,29 @@ body {
 }
 
 /* Головна */
-
+.hero {
+  background-color: #2e2f42;
+}
+.hero_title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.list {
+  font-family: "Roboto", sans-serif;
+}
+.info_item {
+  color: #434455;
+  font-size: 16px;
+}
+.info_item_title {
+}
+.info_item_text {
+  color: #434455;
+  font-size: 16px;
+}
 /* Портфоліо */
 .main_menu {
 }
