@@ -125,7 +125,7 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: var(--Whitebackground);
 }
-.info_item {
+.info_list_item {
   line-height: 1.2;
   list-style: none;
 }
