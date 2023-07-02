@@ -4,7 +4,20 @@ body {
   background-color: #FFFFFF;
 }
 
+:root {
+  --PrimaryBrand: #4d5ae5;
+  --Pressedstate: #404bbf;
+  --Dark: #2e2f42;
+  --Success: #31d0aa;
+  --Text: #434455;
+  --SubtleText: #8e8f99;
+  --Accent: #e7e9fc;
+  --Light: #f4f4fd;
+  --Modaloverlay: #2e2f42;
+  --Herobackground: #2e2f42;
 
+  --Modalbackground: #fcfcfc;
+}
 /* Header */
 
 /* LOGO */
@@ -16,35 +29,35 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-  color: #4d5ae5;
+  color: var(--PrimaryBrand);
 }
 
 .logo_link_change {
-  color: #2e2f42;
+  color: var(--Dark);
 }
 
 .nav .nav_list_link:hover,
 .nav .nav_list_link:active,
 .nav .nav_list_link:focus {
-  color: #404bbf;
+  color: var(--Pressedstate);
 }
 .nav .nav_list_link {
   font-style: normal;
   text-decoration: none;
   font-weight: 500;
-  color: #404bbf;
+  color: var(--Pressedstate);
 }
 
 .address .address_list:hover,
 .address .address_list:active,
 .address .address_list:focus {
-  color: #404bbf;
+  color: var(--Pressedstate);
 }
 
 .address .address_list {
   font-style: normal;
   text-decoration: none;
-  color: #434455;
+  color: var(--Text);
 }
 /* Button */
 .list{
@@ -55,16 +68,16 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  color: #4d5ae5;
-  background-color: #f4f4fd;
+  color: var(--PrimaryBrand);
+  background-color: var(--Light);
   cursor: pointer;
 }
 
 .button_item:hover,
 .button_item:focus {
-  color: #ffffff;
-  background-color:#404bbf;
+  color: var(--Whitebackground);
+  background-color: var(--Pressedstate);
 }
 .button {
-  color: #2e2f42;
+  color: var(--Modaloverlay);
 }
