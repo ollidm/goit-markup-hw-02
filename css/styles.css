@@ -156,10 +156,14 @@ body {
   line-height: 1.11;
   color: var(--Dark);
 }
-.doing_title_list {
+.doing_list {
+  background-color: #ffffff;
+}
+.doing_list_item {
   text-align: center;
   text-transform: capitalize;
 }
+
 /* Портфоліо */
 .main_menu {
 }
