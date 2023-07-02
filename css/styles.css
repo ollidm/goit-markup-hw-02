@@ -165,6 +165,26 @@ body {
   text-align: center;
 }
 
+.team {
+  background-color: #f4f4fd;
+}
+.team_title {font-size: 36px;
+  font-size: 36px;
+  text-transform: capitalize;
+   letter-spacing: 0.02em;
+   text-align: center;
+    line-height: 1.11
+}
+
+.team_list {
+}
+.team_list_title {
+}
+.team_list_name {
+}
+.team_list_job {
+}
+
 /* Портфоліо */
 .main_menu {
 }
