@@ -5,14 +5,14 @@ body {
 }
 
 :root {
-  --PrimaryBrand: #4d5ae5;
+
   --Pressedstate: #404bbf;
   --Dark: #2e2f42;
   --Success: #31d0aa;
   --Text: #434455;
   --SubtleText: #8e8f99;
   --Accent: #e7e9fc;
-  --Light: #f4f4fd;
+
   --Modaloverlay: #2e2f42;
   --Herobackground: #2e2f42;
   --Whitebackground: #ffffff;
@@ -21,7 +21,7 @@ body {
 /* Header */
 
 /* LOGO */
-.logo{color: #f4f4fd;
+.link{color: #f4f4fd;
   background-color: #2e2f42 
 
 }
