@@ -25,13 +25,6 @@ body {
   color: #2e2f42;
 }
 .loggo {
-    font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  text-decoration: none;
   color: #2e2f42;
 }
 .logo {
@@ -65,7 +58,7 @@ body {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
-  letter-spacing: 0.32p;
+  letter-spacing: 0.32;
 }
 .logo_link_text {
   font-weight: 400;
@@ -78,6 +71,10 @@ body {
 }
 
 .address .address_list {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32;
   font-style: normal;
   text-decoration: none;
   color: var(--Text);
