@@ -37,7 +37,8 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;}
   .logo_change{
-    
+   color: #2e2f42; 
+  
   }
 .logo {  text-decoration: none;
      color: #4d5ae5;
