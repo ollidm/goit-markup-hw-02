@@ -29,12 +29,7 @@ body {
   text-transform: uppercase;
 
 
-}
-.logo_link_text{
-  line-height: 1.5;
-  color: #f4f4fd;
-  letter-spacing: 0.02em
-}
+
 .nav{ font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -144,3 +139,10 @@ body {
   color: #434455;
 }
 
+/* кінець */
+}
+.logo_link_text{
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em
+}
