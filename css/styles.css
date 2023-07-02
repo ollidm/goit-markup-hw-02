@@ -36,8 +36,10 @@ body {
 .logos {
   font-family: "Raleway", sans-serif;
   width: 1440px;
-  height: 312px;
+  line-height: 1.5;
   background: #2e2f42;
+  color: #f4f4fd;
+  line-height: 1.5;
 }
 .logo_change_link {
   font-size: 18px;
@@ -55,5 +57,4 @@ body {
 }
 .logo_link_text {
   font-weight: 400;
-    color: #f4f4fd;
 }
