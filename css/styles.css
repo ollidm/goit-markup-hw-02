@@ -18,19 +18,21 @@ body {
   --Modalbackground: #fcfcfc;
 }
 /* Header */
-
-
-.logo link {
-  font-family: "Raleway", sans-serif;
+.logos   {
+  background-color: #2e2f42;
+   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
+}
+.logo link {
+ 
   color: #4d5ae5;
 }
-.logo_link_change{
+.logo_link_change {
   color: #f4f4fd;
 }
 
@@ -94,25 +96,31 @@ body {
 }
 
 /* Секція 1 */
-.info{background-color: #ffffff;}
-.list{
-
+.info {
+  background-color: #ffffff;
 }
-.info_item{}
-.info_item_title{}
-.info_item_text{}
+.list {
+}
+.info_item {
+}
+.info_item_title {
+}
+.info_item_text {
+}
 
 /* Портфоліо */
-.content_item{}
-.content_item_img{}
-.content_item_tittle{
+.content_item {
+}
+.content_item_img {
+}
+.content_item_tittle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.content_item_text{
+.content_item_text {
   font-size: 16;
   line-height: 1.5;
   letter-spacing: 0.02em;
