@@ -163,14 +163,16 @@ body {
 .doing {
   background-color: #ffffff;
   text-transform: capitalize;
+   letter-spacing: 0.02em;
 }
 .doing_title {
   font-size: 36px;
+    line-height: 1.11;
   text-align: center;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
+
+ 
   color: var(--Dark);
-  letter-spacing: 0.02em;
+
 }
 .doing_list {
   background-color: #ffffff;
