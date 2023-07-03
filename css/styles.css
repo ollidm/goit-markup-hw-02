@@ -162,13 +162,14 @@ body {
 /* Секція 2 */
 .doing {
   background-color: #ffffff;
+   text-transform: capitalize;
 }
 .doing_title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  text-transform: capitalize;
-  letter-spacing: 0.02em;
+ 
+
 
   color: var(--Dark);
 }
