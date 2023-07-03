@@ -99,24 +99,24 @@ body {
   color: var(--Modaloverlay);
 }
 .buttons {
+  color: var(--Modaloverlay);
   color: #ffffff;
-  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
- 
+  background-color: #404bbf;
 }
-.buttonse{
-font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-color: #4d5ae5;
-background-color: #F4F4FD;
+.buttonse {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
 }
 
 /* Головна */
@@ -167,7 +167,7 @@ background-color: #F4F4FD;
   text-align: center;
   line-height: 1.11;
   color: var(--Dark);
-  letter-spacing: 0.02em
+  letter-spacing: 0.02em;
 }
 .doing_list {
   background-color: #ffffff;
@@ -187,7 +187,7 @@ background-color: #F4F4FD;
   text-align: center;
   line-height: 1.11;
   color: #2e2f42;
- background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 .team_list {
@@ -224,7 +224,6 @@ background-color: #F4F4FD;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--Dark);
-  
 }
 .menu_list_item_text {
 }
