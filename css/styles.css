@@ -99,7 +99,7 @@ body {
   color: var(--Modaloverlay);
 }
 .buttons {
-  color: var(--Modaloverlay);
+  background-color: #404bbf;
   color: #ffffff;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
