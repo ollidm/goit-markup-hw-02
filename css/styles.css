@@ -184,10 +184,10 @@ body {
   text-align: center;
 }
 /* Секція 3 */
-.team {
+.our {
   background-color: #f4f4fd;
 }
-.team_title {
+.our_title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -197,11 +197,11 @@ body {
   background-color: #ffffff;
 }
 
-.team_list {
+.our_list {
   background-color: #ffffff;
 }
 
-.team_list_item,
+.ourlist_item,
 .h3 {
   font-weight: 500;
   font-size: 20px;
@@ -209,7 +209,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.team_list_item,
+.our_list_item,
 .p {
   font-size: 16px;
   line-height: 1.5;
