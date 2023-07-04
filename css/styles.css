@@ -54,27 +54,30 @@ body {
   text-decoration: none;
   color: #f4f4fd;
 }
-.nav_list
-.nav_list_link {
-   color:  #404bbf;
+.nav_list .nav_list_link {
+  color: #404bbf;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.32;
   letter-spacing: 0.02em;
-  
-  text-decoration:none;
-  color : #404bbf
+
+  text-decoration: none;
+  color: #404bbf;
 }
 .logo_link_text {
-  font-weight: 400;color:  #2e2f42 ;
+  font-weight: 400;
+  color: #2e2f42;
 }
 
 .address_list .address_list_link:hover,
 .address_list .address_list_link:active,
 .address_list .address_list_link:focus {
   color: var(--Pressedstate);
-  font-style: normal 
+  font-style: normal;
+  line-height: 1.5;
+  
+  letter-spacing: 0.02em;
 }
 
 .address_list .address_list_link {
@@ -82,9 +85,8 @@ body {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.32;
-
+color: var(--Dark);
   text-decoration: none;
-  color: var(--Text);
 }
 
 /* Кнопки */
@@ -96,7 +98,8 @@ body {
   background-color: var(--Light);
   cursor: pointer;
   background-color: #404bbf;
- font-style: normal }
+  font-style: normal;
+}
 .button_item:hover,
 .button_item:focus {
   color: #ffffff;
@@ -119,7 +122,7 @@ body {
   background-color: #404bbf;
 }
 .buttonse {
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -141,9 +144,10 @@ body {
   letter-spacing: 0.02em;
 }
 /* Секція 1 */
-.text_{font-family: "Roboto", sans-serif;}
+.text_ {
+  font-family: "Roboto", sans-serif;
+}
 .text_list {
-  
   background-color: var(--Whitebackground);
 }
 .text_list_item {
