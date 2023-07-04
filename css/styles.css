@@ -62,12 +62,12 @@ body {
   line-height: 24px;
   letter-spacing: 0.32;
   letter-spacing: 0.02em;
-  color:  #2e2f42 ;
+  
   text-decoration:none;
   color : #404bbf
 }
 .logo_link_text {
-  font-weight: 400;
+  font-weight: 400;color:  #2e2f42 ;
 }
 
 .address_list .address_list_link:hover,
@@ -96,7 +96,7 @@ body {
   background-color: var(--Light);
   cursor: pointer;
   background-color: #404bbf;
-}
+ font-style: normal }
 .button_item:hover,
 .button_item:focus {
   color: #ffffff;
