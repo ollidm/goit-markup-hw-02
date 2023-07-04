@@ -138,15 +138,16 @@ body {
   letter-spacing: 0.02em;
 }
 /* Секція 1 */
-.info_list {
-  font-family: "Roboto", sans-serif;
+.text_{font-family: "Roboto", sans-serif;}
+.text_list {
+  
   background-color: var(--Whitebackground);
 }
-.info_list_item {
+.text_list_item {
   line-height: 1.2;
   list-style: none;
 }
-.info_list_title {
+.text_list_title {
   color: var(--Herobackground);
   font-size: 20px;
   font-weight: 500;
@@ -155,7 +156,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.info_list_text {
+.text_list_text {
   font-weight: 400;
   color: #434455;
   font-size: 16px;
