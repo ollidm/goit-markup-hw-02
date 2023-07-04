@@ -67,18 +67,19 @@ body {
   font-weight: 400;
 }
 
-.address_list .address_liste:hover,
-.address_list .address_liste:active,
-.address_list .address_liste:focus {
+.address_list .address_list_link:hover,
+.address_list .address_list_link:active,
+.address_list .address_list_link:focus {
   color: var(--Pressedstate);
+  font-style: normal 
 }
 
-.address_list .address_liste {
+.address_list .address_list_link {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.32;
-  font-style: normal;
+
   text-decoration: none;
   color: var(--Text);
 }
