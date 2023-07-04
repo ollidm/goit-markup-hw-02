@@ -54,11 +54,14 @@ body {
   text-decoration: none;
   color: #f4f4fd;
 }
-.nav_list_1 {
+.nav_list
+.nav_list_link {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.32;
+  letter-spacing: 0.02em;
+  color:  #2e2f42 ;
 }
 .logo_link_text {
   font-weight: 400;
@@ -162,15 +165,13 @@ body {
 /* Секція 2 */
 .doing {
   background-color: #ffffff;
-   text-transform: capitalize;
+  text-transform: capitalize;
 }
 .doing_title {
   letter-spacing: 0.02em;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
- 
-
 
   color: var(--Dark);
 }
@@ -194,17 +195,20 @@ body {
   background-color: #ffffff;
 }
 
-.team_list {background-color: #FFFFFF
+.team_list {
+  background-color: #ffffff;
 }
 
-.team_list_title, .h3{
+.team_list_title,
+.h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.team_list_title, .p{
+.team_list_title,
+.p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
