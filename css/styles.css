@@ -146,7 +146,7 @@ body {
   line-height: 1.2;
   list-style: none;
 }
-.info_list_itemtitle {
+.info_list_title {
   color: var(--Herobackground);
   font-size: 20px;
   font-weight: 500;
@@ -155,7 +155,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.info_list_item_text {
+.info_list_text {
   font-weight: 400;
   color: #434455;
   font-size: 16px;
