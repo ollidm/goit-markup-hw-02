@@ -201,16 +201,14 @@ body {
   background-color: #ffffff;
 }
 
-.ourlist_item,
-.h3 {
+.our_list_name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.our_list_item,
-.p {
+.our_list_job {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
