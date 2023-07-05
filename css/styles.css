@@ -53,7 +53,9 @@ body {
   text-decoration: none;
   color: #f4f4fd;
 }
-
+.nav_list{ color: #2e2f42;
+    color: #404bbf;
+}
 .nav_list .nav_list_link {
 
   color: #404bbf;
@@ -64,7 +66,7 @@ body {
  
   font-style: normal;
   text-decoration: none;
-  color: #404bbf;
+
 }
 .logo_link_text {
   font-weight: 400;
