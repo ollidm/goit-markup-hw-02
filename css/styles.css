@@ -147,24 +147,21 @@ body {
 /* Секція 1 */
 .info {
 }
-.info_list {
+.info_list .p {  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455
 }
-.info_list_item {
-  list-style: none;
-}
-.info_list_name {
-  font-weight: 500;
+.info_list .h3 { font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.info_list_text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
+.info_list_item {
+  list-style: none;
 }
+
 /* Секція 2 */
 .doing {
   background-color: #ffffff;
