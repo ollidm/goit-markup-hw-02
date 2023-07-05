@@ -121,7 +121,7 @@ body {
 
 /* Головна */
 .hero {
-  background: #2e2f42;
+  background: var(--navyblue, #2e2f42);
 }
 
 .hero-title {
