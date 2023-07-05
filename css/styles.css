@@ -240,17 +240,29 @@ body {
 .menu_list {
   color: var(--Whitebackground);
 }
-.menu_list_item {
+.porto {
   font-family: "Roboto", sans-serif;
 }
-.menu_list_item_img {
+.porto_item{
+
 }
-.menu_list_item_tittle {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--Dark);
-}
-.menu_list_item_text {
+
+.porto_item_tittle {
+   color: var(--navyblue, #2E2F42);
+    /* Header 3 */
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;}
+
+.porto_item_text {
+  color: var(--primary-color);
+        font-size: 16px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
 }
