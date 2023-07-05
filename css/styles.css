@@ -56,7 +56,7 @@ body {
   color: #f4f4fd;
 }
 .header-menu {
-  color: #2e2f42 ;
+  color: #2e2f42;
 
   font-size: 16px;
   font-weight: 500;
@@ -64,7 +64,7 @@ body {
   letter-spacing: 0.02em;
 }
 .header-menu-link {
-  color: #2e2f42 ;
+  color: #2e2f42;
 }
 .header-adress {
   font-style: normal;
@@ -89,19 +89,22 @@ body {
   letter-spacing: 0.02em;
 }
 .adress-lnk {
-font-style: normal
+  font-style: normal;
 }
 
 /* Кнопки */
 .button_item {
-  font-weight: 500;
+  color: var(--iris, #4d5ae5);
+  background: var(--cloud, #f4f4fd);
+  text-align: center;
+  /* Button Text */
   font-size: 16px;
-  line-height: 1.5;
-  color: var(--PrimaryBrand);
-  background-color: var(--Light);
-  cursor: pointer;
-  background-color: #404bbf;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
 }
 .button_item:hover,
 .button_item:focus {
