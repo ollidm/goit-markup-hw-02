@@ -72,12 +72,12 @@ body {
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 .address_list .address_list_link:hover,
 .address_list .address_list_link:active,
 .address_list .address_list_link:focus {
-  color: var(--Pressedstate);
+  color: #404bbf;
 }
 
 .address_list .address_list_link {
