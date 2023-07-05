@@ -88,6 +88,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.adress-lnk {
+font-style: normal
+}
 
 /* Кнопки */
 .button_item {
