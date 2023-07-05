@@ -112,20 +112,7 @@ body {
 .button {
   color: var(--Modaloverlay);
 }
-.buttons {
-  background-color: #404bbf;
-  color: #ffffff;
-  background-color: #4d5ae5;
-  font-family: "Roboto", sans-serif;
 
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-
-  cursor: pointer;
-  background-color: #404bbf;
-}
 .buttonse {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -139,15 +126,33 @@ body {
 }
 
 /* Головна */
-.hero {
-  background-color: #2e2f42;
-  color: #ffffff;
+.hero {background: var(--navyblue, #2E2F42);}
+
+.hero-title {
+    color: #ffffff;
+        text-align: center;
+        /* Header 1 */
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
 }
-.hero_title {
-  font-size: 56px;
-  line-height: 1.07;
-  text-align: center;
-  letter-spacing: 0.02em;
+
+.hero-btn {color: var(--white, #FFF);
+    /* Button Text */
+    font-size: 16px;
+    font-family: "Roboto",sans-serif;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background: var(--iris, #4D5AE5);
+    cursor: pointer
+}
+.hero-btn:hover,
+.hero-btn:focus {
+color: var(--white, #FFF);
+background-color: #404BBF
 }
 /* Секція 1 */
 .infomation {
