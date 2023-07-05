@@ -94,8 +94,8 @@ body {
 
 /* Кнопки */
 
-.button_item:hover,
-.button_item:focus {
+.buttonse:hover,
+.buttonse:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
@@ -117,7 +117,7 @@ body {
         letter-spacing: 0.04em;
         cursor: pointer
 }
-}
+
 
 /* Головна */
 .hero {
