@@ -49,15 +49,15 @@ body {
   font-weight: 800;
   line-height: 1.17;
   letter-spacing: 0.02em;
-  color: #2e2f42;
   text-transform: uppercase;
   text-decoration: none;
-  color: #404bbf;
+  color: #f4f4fd;
 }
 .nav_list .nav_list_link {
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5;
+line-height: 1.5 ;
 
   letter-spacing: 0.02em;
   font-style: normal;
@@ -139,7 +139,6 @@ body {
   color: #ffffff;
 }
 .hero_title {
-  background-color: #4d5ae5;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
