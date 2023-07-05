@@ -146,7 +146,7 @@ body {
   letter-spacing: 0.02em;
 }
 /* Секція 1 */
-.infomation {
+.infomation {  letter-spacing: 0.02em
 
 }
 .infomation_list_name {
@@ -160,7 +160,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
-    letter-spacing: 0.02em
+  
 }
 
 
