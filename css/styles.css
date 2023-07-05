@@ -145,13 +145,13 @@ body {
   letter-spacing: 0.02em;
 }
 /* Секція 1 */
-.info {  letter-spacing: 0.02em;
+.infometion {  letter-spacing: 0.02em;
 }
-.info_list .p {  font-size: 16px;
+.infometion_list .p {  font-size: 16px;
   line-height: 1.5;
   color: #434455
 }
-.info_list .h3 { font-weight: 500;
+.infometion_list .h3 { font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
