@@ -21,21 +21,18 @@ body {
 }
 
 /* Початок та кінець */
-.nav {
-  color: #2e2f42;
-}
-.loggo {
-  color: #2e2f42;
-}
+
 .logo {
+  color: #4d5ae5;
+  font-size: 18px;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
-  font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  text-decoration: none;
-  color: #4d5ae5;
+}
+.loggo {
+  color: #2e2f42;
 }
 .logos {
   font-family: "Raleway", sans-serif;
@@ -53,43 +50,43 @@ body {
   text-decoration: none;
   color: #f4f4fd;
 }
-.nav_list {
-  color: #2e2f42;
-  color: #404bbf;
-}
-.nav_list .nav_list_link {
-  color: #404bbf;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 
-  font-style: normal;
-  text-decoration: none;
-}
 .logo_link_text {
   font-weight: 400;
   color: #f4f4fd;
 }
-.address {
-  font-style: normal;
+.header-menu {
+  color: var(--color-text);
+
+  font-size: 16px;
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
 }
-.address_list .address_list_link:hover,
-.address_list .address_list_link:active,
-.address_list .address_list_link:focus {
+.header-menu-link {
+  color: var(--color-text);
+}
+.header-adress {
+  font-style: normal;
+}
+.link {
+  text-decoration: none;
+}
+.list {
+  list-style-type: none;
+}
+.header-focus:focus,
+.header-focus:hover {
   color: #404bbf;
 }
 
-.address_list .address_list_link {
+.header-social-link {
+  color: var(--slate, #434455);
+
   font-size: 16px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32;
-  color: var(--Dark);
-  text-decoration: none;
+  font-family: Roboto;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /* Кнопки */
