@@ -145,18 +145,20 @@ body {
   letter-spacing: 0.02em;
 }
 /* Секція 1 */
-
-
-.doing_list .p {  font-size: 16px;
-  line-height: 1.5;
-  color: #434455
+.infomation {
+  letter-spacing: 0.02em;
 }
-.doing_list .h3 { font-weight: 500;
+.infomation_list .p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+.infomation_list .h3 {
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
 }
-
 
 /* Секція 2 */
 .doing {
