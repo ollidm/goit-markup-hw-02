@@ -149,18 +149,14 @@ body {
 }
 .info_list .p {  font-size: 16px;
   line-height: 1.5;
-
   color: #434455
 }
 .info_list .h3 { font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-
   color: #2e2f42;
 }
-.info_list_item {
-  list-style: none;
-}
+
 
 /* Секція 2 */
 .doing {
