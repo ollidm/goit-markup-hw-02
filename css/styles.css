@@ -56,7 +56,7 @@ body {
   color: #f4f4fd;
 }
 .header-menu {
-  color: var(--color-text);
+  color: #2e2f42 ;
 
   font-size: 16px;
   font-weight: 500;
@@ -64,7 +64,7 @@ body {
   letter-spacing: 0.02em;
 }
 .header-menu-link {
-  color: var(--color-text);
+  color: #2e2f42 ;
 }
 .header-adress {
   font-style: normal;
